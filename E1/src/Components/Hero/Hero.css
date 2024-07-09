@@ -1,0 +1,40 @@
+.hero {
+    
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #d15f5f;
+    text-align: center;
+    
+}
+  
+  .hero-content {
+    max-width: 600px;
+  }
+  
+  .hero h1 {
+    text-align: center;
+    color:blueviolet;
+    font-size: 48px;
+    margin: 0 0 20px 0;
+  }
+  
+  .hero p {
+    font-size: 24px;
+    margin: 0 0 20px 0;
+    color: #ac2aa5;
+  }
+  
+  .btn {
+    background: #d802c6;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background: #ac2aa5;
+  }
+  
